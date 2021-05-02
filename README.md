@@ -2,10 +2,6 @@
 Source code game tic tac toe using tkinter
 
 
-# Note-Tk
-notepad using python tkinter
-
-
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
      <img alt="AsukaDev-Official/Tic-Tac-Toe" height="60%" width="100%" src="Screenshot_20210423-103702948.jpg"/>
